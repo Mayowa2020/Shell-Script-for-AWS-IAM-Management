@@ -20,7 +20,7 @@ The script takes one argument which specifies the environment (local, testing, o
 ### Running the Script
 
 ```bash
-./setup.sh <environment>
+./aws_cloud_manager.sh <environment>
 ```
 
 Replace `<environment>` with either `local`, `testing`, or `production`.
